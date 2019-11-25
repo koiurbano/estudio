@@ -111,7 +111,7 @@ li{
 }
 
 
-@media screen and (max-width: 375px){
+@media screen and (max-width: 768px){
     .grid{
         grid-template-columns: repeat(1d,1fr);
     }
